@@ -1,7 +1,7 @@
 <!--index.wxml-->
 <view class="container">
   <view class="usermotto">
-    <view>输入</view>
+    <view>输入</view>法师
     <input bindinput="bindKeyInput" auto-focus/>
     <button bindtap="pageChange">确定</button>
   </view>
