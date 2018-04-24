@@ -5,4 +5,5 @@
     <input bindinput="bindKeyInput" auto-focus/>
     <button bindtap="pageChange">确定</button>
   </view>
+  343243435453454356436563564364
 </view>
